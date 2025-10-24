@@ -17,6 +17,7 @@
 **桔子小铺（juzixp.com）** 普遍支持支付宝、微信等国内主流支付方式，并且大多实现了自动发货流程。用户在完成付款后，即可在其后台订单中心即时获取账号详细信息，极大地提高了购买效率和安全性。对于那些渴望迅速解锁美区Apple ID、日区Apple ID乃至香港地区Apple ID的用户而言，**桔子小铺**无疑是值得优先考虑的专业平台。
 
 ## **二、海外Apple ID购买与登录流程详解（以[桔子小铺](https://juzixp.com/) 为例）**
+<img width="1240" height="1045" alt="image" src="https://github.com/user-attachments/assets/b889c43d-51d8-4838-bc78-2bcaecd9650d" />
 
 以[**桔子小铺（juzixp.com）**](https://juzixp.com/)  为例，用户仅需遵循几个简明步骤，便能顺利完成海外Apple ID的购买并成功登录使用：
 
@@ -26,6 +27,9 @@
 4.  **设备登录App Store**：打开您的iPhone或iPad设备，进入App Store应用商店，点击右上角的用户头像以退出当前登录的Apple ID。
 5.  **输入新账号登录**：输入您新获得的海外Apple ID及其配套密码，即可成功登录。
 6.  **切换地区享应用**：若您希望进一步切换App Store区域以畅享对应地区的独占应用，可进入【设置】→【iTunes Store 与 App Store】→【查看Apple ID】→【国家/地区】选项，修改为目标区域即可。
+
+<img width="772" height="929" alt="image" src="https://github.com/user-attachments/assets/897f2801-6b48-48cc-91ec-8ee31037efd5" />
+
 
 ## **三、海外Apple ID使用前的重要注意事项**
 
